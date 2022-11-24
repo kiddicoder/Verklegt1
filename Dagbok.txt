@@ -1,2 +1,42 @@
-Dagur 1:
-Við kláruðum verkefnið
+21. nóvember:
+
+Morgunfundur:
+Við byrjuðum daginn á að hlusta á tveggja tíma fyrirlestur hjá Dr. Gylfa Þór Guðmundssyni, stuttu eftir það þá hópuðum við okkur upp og við greindum verkefnið. Markmið dagsins hjá okkur var að undirbúa vinnu morgundagsins og að komast betur inn í efnið.
+
+Samantekt:
+Við komumst betur inn í efnið og skrifuðum lista af spurningum fyrir kennara og aðstoðarkennara. Við lásum vel yfir verkefnalýsinguna og reyndum að fá betur skilið það efni sem var ekki kunnuglegt. Markmið Elsu og Jónínu fyrir morgundaginn er að fá betri skýringu á Git, með því að horfa á fyrirlestur og lesa sig til um það. Markmið hinna hópmeðlima fyrir morgundaginn er að horfa á fyrirlestra varðandi þriggja laga hönnun og TUI. 
+
+
+22. nóvember:
+
+Morgunfundur:
+Hópurinn hittist snemma dags í sólinni í HR og hóf umræður um hver markmið dagsins yrðu ásamt því að ræða saman hvernig við myndum vilja tækla þau. Við ákváðum að byrja að vinna lítillega í hverri afurð verkefnisins, þ.e. notkunartilvikum, klasariti, stöðuritum, notendahópagreiningu, og útlitshönnun. Markmið dagsins var að klára drög að klasariti og útlitshönnun, ásamt því að brjóta notendahópagreininguna og notkunartilvikin í smærri verkefni og útfæra eins mörg þeirra og hægt var. Við bjuggum til sameiginlegt drive skjal og bættum við sameiginlegum textaskjölum sem við getum unnið saman í. 
+
+
+Samantekt:
+Til að byrja með stunduðum við mikla samvinnu og töluðum saman ítarlega um hvernig við myndum framkvæma hvert smærra markmið/verkefni. Með því komumst við að því hvaða hlutverkefni myndi henta hverjum hópmeðlimi í samanburði við hæfni og styrkleika þeirra. Hópurinn vann í samvinnu að markmiðinu en þó voru sum hlutverkefni unnin af einstökum hópmeðlimum. Allir meðlimir hópsins tóku virkan þátt í verki dagsins og dagurinn nýttist okkur vel. Að lok dags var klasaritið og útlitshönnun hugbúnaðarins komið þokkalega vel á leið og styttist í að það verði tilbúið. Einnig var mikil vinna lögð í notkunartilvikið og það komið ágætlega á leið. Miklar umræður og spurningar spruttu upp þegar unnið var að notendahópagreiningunni, en að enda dags voru drög að henni nokkurn vegin tilbúin. 
+Markmið okkar fyrir morgundaginn er að komast vel á veg með útlitshönnun. Einnig að fara betur yfir notkunartilvik og notendahópagreiningu. Að lokum viljum við byrja vinnu á klasariti og stöðuriti. 
+
+
+23. nóvember:
+
+Morgunfundur:
+Markmið dagsins eru að klára fyrstu drög að notendatilviki, wireframes, notendahópagreiningu, og kröfulista. Einnig viljum við byrja á klasaritinu og stöðuritinu og reyna að komast eins langt með það og við getum. 
+
+Samantekt:
+Við hittumst í sólinni í HR og byrjuðum að tækla markmið dagsins. Notendahópagreiningin kláraðist fljótt eftir að við skoðuðum það saman lið fyrir lið og með því var fyrsta markmið dagsins náð. Einnig kláraðist notendatilvikið og kröfulistinn eftir mikla vinnu. Þar með voru þrjú markmið náð og örfá eftir. Við unnum hart að því að klára wireframes og enduðum með nánast tilbúin drög að þeim, aðalhindrun okkar í þeim voru óvissa á fjölda happy paths sem við ættum að hafa. Stór hluti af vinnudegi okkar fór í að íhuga og rökræða um klasarit okkar, þar sem við vorum ekki alveg viss um hvort við værum á réttri leið með það. Við hófum vinnu á stöðuriti okkar en ekki náðist að klára það til fulls. Við náðum að gera góðan hluta af stöðuritinu en það er ennþá slatti sem við þurfum að bæta við og hugleiða í því. 
+
+
+24. nóvember:
+
+Morgunfundur:
+Markmið dagsins eru að klára það sem ekki er klárað af afurðum. Það sem eftir er að klára í dag er stöðurit og klasarit. 
+
+Samantekt:
+Við hittumst í sólinni í HR og fórum strax af stað að reyna klára afurðirnar sem eftir var að klára. Einnig fórum við betur yfir þær afurðir sem við vorum búin að klára til þess að passa að afurðirnar séu eins góðar og við getum gert þær. 
+
+
+
+
+
+
