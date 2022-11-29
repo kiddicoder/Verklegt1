@@ -51,14 +51,14 @@ Morgunfundur:
 Nú þegar það er komið að því að nota forritun í námskeiðinu þurfum við að passa að við séum með klasa og föll á hreinu og þess þurfa nokkrir í hópnum að læra betur á það svo verkefnið geti verið unnið. Markmið dagsins er þess að allir hópmeðlimir séu færir í klösum og föllum. Einnig viljum við íhuga að vinnu verkefnisins, þ.e. skoða verkefni vikunnar ítarlega og ákveða hvernig við viljum útfæra verkefnið. Annað markmiðið er þess að skipta verkefninu niður í minni hluta og vera búin að ákveða lauslega hvernig við viljum tækla hvern hluta. Ef tími gefst viljum við einnig byrja að forrita það sem við getum. 
 
 Samantekt:  
-Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsins. Það var örlítil hindrun þar sem við vorum ekki jafn vinnusöm heima og við erum yfirleitt þegar við mættum í skólann. Samt sem áður vorum við dugleg og reyndum að ná markmiðum dagsins. Við fórum fyrst yfir alla verkefnalýsinguna saman og punktuðum niður ef okkur fannst eitthvað koma við forrituninni. Einnig fylgdist megnið af hópnum með fyrirlestrinum, en þar sem tveir hópmeðlimar misstu af honum og kennarinn hafði ekki sett fyrirlesturinn á Echo360 þurfti það að bíða. Þess þurftu hinir meðlimir hópsins að lýsa fyrirlestrinum fyrir hópnum og gekk það ansi vel. Til þess að forrita verkefnið fannst okkur klasaritið, stöðuritið og wireframes mikilvægustu afurðirnar til að bera tillit til þegar við forrituðum. Þær afurðir geta hjálpað okkur mikið í forrituninni þar sem þær hafa skref fyrir skref áætlanir fyrir hvernig hægt er að ná ákveðnu markmiði. Við skiptum forrituninni í ___ hluta; spilun, skráning og breyting. 
-Spilunin er nánara tiltekið skipulagning móts af mótshaldara og þar eftir spilun móts. 
-Skráningin skiptist í skráningu liðs, leikmanns og deildar. 
-Breytingin
+Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsins. Það var örlítil hindrun þar sem við vorum ekki jafn vinnusöm heima og við erum yfirleitt þegar við mættum í skólann. Samt sem áður vorum við dugleg og reyndum að ná markmiðum dagsins. Við fórum fyrst yfir alla verkefnalýsinguna saman og punktuðum niður ef okkur fannst eitthvað koma við forrituninni. Einnig fylgdist megnið af hópnum með fyrirlestrinum, en þar sem tveir hópmeðlimar misstu af honum og kennarinn hafði ekki sett fyrirlesturinn á Echo360 þurfti það að bíða. Til þess að forrita verkefnið fannst okkur klasaritið, stöðuritið og wireframes mikilvægustu afurðirnar til að bera tillit til þegar við forrituðum. Þær afurðir geta hjálpað okkur mikið í forrituninni þar sem þær hafa skref fyrir skref áætlanir fyrir hvernig hægt er að ná ákveðnu markmiði. Að lokum litum við yfir umsögnina sem við fengum frá hönnunarskýrslunni.
+
 
 29. Nóvember
 
 Morgunfundur:
-Markmið dagsins er að klára forritun á ____ hlutanum. Ef tími gefst langar okkur einnig að klára forritun á ____ hlutanum. Mikilvægast fyrir okkur er að hefja forritun á ___ hlutanum sem fyrst og komast sem lengst með það þar sem það er mikilvægasti hlutinn að okkar mati. Að loki viljum við líta yfir umsögnina sem við fengum fyrir hönnunarskýrsluna okkar. 
+Markmið dagsins er að klára forritun á allri model möppunni. Einnig viljum við reyna að klára allt í files möppunni. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
+
 
 Samantekt:
+Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna.  
