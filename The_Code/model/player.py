@@ -1,7 +1,7 @@
 class Player():
-   def __init__(self, name="", id=0, address="", email="", gsm=0, phone=0, role="", team=""):
+   def __init__(self, name="", player_id=0, address="", email="", gsm=0, phone=0, role="", team=""):
        self.name = name
-       self.id = id
+       self.player_id = id
        self.address = address
        self.email = email
        self.gsm = gsm
