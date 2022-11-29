@@ -57,8 +57,8 @@ Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsin
 29. Nóvember
 
 Morgunfundur:
-Markmið dagsins er að klára forritun á allri model möppunni. Einnig viljum við reyna að klára allt í files möppunni. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
+Í gær gerðum við sameiginlegt git repository með öllum A kröfunum og aðal atriðum forritsins. Markmið dagsins er að klára forritun á allri model möppunni, s.s. modelklasana. Einnig viljum við reyna að klára allt í files möppunni, s.s. csv filein. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
 
 
 Samantekt:
-Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna.  
+Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna. Við lögðum mikla áherslu á player og náðum að klára forritun á öllu player tengdu. Einnig náðum við að fara vel yfir allt í data möppunni og náðum nánast að klára hana. Við vorum lengi vel að velta okkur yfir þessari þrílaga hönnun og erum ennþá ekki örugg með það. Þess vegna viljum við skoða það betur heima til að fá dýpri skilning. Draumurinn væri að geta klárað allt sem komið er í sameiginlega repositoryið okkar
