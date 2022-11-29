@@ -1,42 +1,64 @@
-21. nóvember:
+21. Nóvember
 
 Morgunfundur:
 Við byrjuðum daginn á að hlusta á tveggja tíma fyrirlestur hjá Dr. Gylfa Þór Guðmundssyni, stuttu eftir það þá hópuðum við okkur upp og við greindum verkefnið. Markmið dagsins hjá okkur var að undirbúa vinnu morgundagsins og að komast betur inn í efnið.
 
-Samantekt:
+Samantekt dagsins:
 Við komumst betur inn í efnið og skrifuðum lista af spurningum fyrir kennara og aðstoðarkennara. Við lásum vel yfir verkefnalýsinguna og reyndum að fá betur skilið það efni sem var ekki kunnuglegt. Markmið Elsu og Jónínu fyrir morgundaginn er að fá betri skýringu á Git, með því að horfa á fyrirlestur og lesa sig til um það. Markmið hinna hópmeðlima fyrir morgundaginn er að horfa á fyrirlestra varðandi þriggja laga hönnun og TUI. 
 
 
-22. nóvember:
+
+22. Nóvember 
 
 Morgunfundur:
 Hópurinn hittist snemma dags í sólinni í HR og hóf umræður um hver markmið dagsins yrðu ásamt því að ræða saman hvernig við myndum vilja tækla þau. Við ákváðum að byrja að vinna lítillega í hverri afurð verkefnisins, þ.e. notkunartilvikum, klasariti, stöðuritum, notendahópagreiningu, og útlitshönnun. Markmið dagsins var að klára drög að klasariti og útlitshönnun, ásamt því að brjóta notendahópagreininguna og notkunartilvikin í smærri verkefni og útfæra eins mörg þeirra og hægt var. Við bjuggum til sameiginlegt drive skjal og bættum við sameiginlegum textaskjölum sem við getum unnið saman í. 
 
-
-Samantekt:
+Samantekt dagsins:
 Til að byrja með stunduðum við mikla samvinnu og töluðum saman ítarlega um hvernig við myndum framkvæma hvert smærra markmið/verkefni. Með því komumst við að því hvaða hlutverkefni myndi henta hverjum hópmeðlimi í samanburði við hæfni og styrkleika þeirra. Hópurinn vann í samvinnu að markmiðinu en þó voru sum hlutverkefni unnin af einstökum hópmeðlimum. Allir meðlimir hópsins tóku virkan þátt í verki dagsins og dagurinn nýttist okkur vel. Að lok dags var klasaritið og útlitshönnun hugbúnaðarins komið þokkalega vel á leið og styttist í að það verði tilbúið. Einnig var mikil vinna lögð í notkunartilvikið og það komið ágætlega á leið. Miklar umræður og spurningar spruttu upp þegar unnið var að notendahópagreiningunni, en að enda dags voru drög að henni nokkurn vegin tilbúin. 
+
 Markmið okkar fyrir morgundaginn er að komast vel á veg með útlitshönnun. Einnig að fara betur yfir notkunartilvik og notendahópagreiningu. Að lokum viljum við byrja vinnu á klasariti og stöðuriti. 
 
-
-23. nóvember:
+23. Nóvember 
 
 Morgunfundur:
 Markmið dagsins eru að klára fyrstu drög að notendatilviki, wireframes, notendahópagreiningu, og kröfulista. Einnig viljum við byrja á klasaritinu og stöðuritinu og reyna að komast eins langt með það og við getum. 
 
 Samantekt:
-Við hittumst í sólinni í HR og byrjuðum að tækla markmið dagsins. Notendahópagreiningin kláraðist fljótt eftir að við skoðuðum það saman lið fyrir lið og með því var fyrsta markmið dagsins náð. Einnig kláraðist notendatilvikið og kröfulistinn eftir mikla vinnu. Þar með voru þrjú markmið náð og örfá eftir. Við unnum hart að því að klára wireframes og enduðum með nánast tilbúin drög að þeim, aðalhindrun okkar í þeim voru óvissa á fjölda happy paths sem við ættum að hafa. Stór hluti af vinnudegi okkar fór í að íhuga og rökræða um klasarit okkar, þar sem við vorum ekki alveg viss um hvort við værum á réttri leið með það. Við hófum vinnu á stöðuriti okkar en ekki náðist að klára það til fulls. Við náðum að gera góðan hluta af stöðuritinu en það er ennþá slatti sem við þurfum að bæta við og hugleiða í því. 
+Við hittumst í sólinni í HR og byrjuðum að tækla markmið dagsins. Notendahópagreiningin kláraðist fljótt eftir að við skoðuðum það saman lið fyrir lið og með því var fyrsta markmið dagsins náð. Einnig kláraðist notendatilvikið og kröfulistinn eftir mikla vinnu. Þar með voru þrjú markmið náð og örfá eftir. Við unnum hart að því að klára wireframes og enduðum með nánast tilbúin drög að þeim, aðalhindrun okkar í þeim voru óvissa á fjölda “happy paths” sem við ættum að hafa. Stór hluti af vinnudegi okkar fór í að íhuga og rökræða um klasarit okkar, þar sem við vorum ekki alveg viss um hvort við værum á réttri leið með það. Við hófum vinnu á stöðuriti okkar en ekki náðist að klára það til fulls. Við náðum að gera hluta af stöðuritinu en það er ennþá slatti sem við þurfum að bæta við og hugleiða í því. 
 
 
-24. nóvember:
+24. Nóvember
 
 Morgunfundur:
-Markmið dagsins eru að klára það sem ekki er klárað af afurðum. Það sem eftir er að klára í dag er stöðurit og klasarit. 
+Markmið dagsins eru að klára stöðuritið og klasaritið okkar. Ef markmiðinu verður ekki náð nægir fyrir okkur að hafa komist eins langt með það og hægt var. 
 
 Samantekt:
-Við hittumst í sólinni í HR og fórum strax af stað að reyna klára afurðirnar sem eftir var að klára. Einnig fórum við betur yfir þær afurðir sem við vorum búin að klára til þess að passa að afurðirnar séu eins góðar og við getum gert þær. 
+Við hittumst í sólinni í HR og fórum strax af stað að reyna klára afurðirnar sem eftir var að klára. Einnig fórum við betur yfir þær afurðir sem við vorum búin að klára til þess að passa að afurðirnar séu eins góðar og við getum gert þær. Okkur tókst að klára klasaritið okkar og einnig stöðuritið og þar með var markmiði dagsins náð. Við fórum lauslega saman yfir allar afurðirnar og löguðum nokkrar villur sem við tókum eftir. Við vorum mjög ánægð með vinnu dagsins. Þar sem við unnum að hverri afurð í sér skjali áttum við eftir að sameina þær allar í eitt skjal til skila. Það ætlum við að gera á morgun og verður það markmið morgundagsins ásamt því að fara yfir allt verkefnið og athuga hvort það séu nokkuð villur sem við getum lagað. Ásamt því að sameina allar afurðir í eitt skjal þurfum við að hafa til forsíðu ásamt efnisyfirliti og myndum af ritunum okkar. 
 
 
+25. Nóvember
+
+Morgunfundur:
+Markmið dagsins er að klára allar afurðir, setja saman í skjal, fara yfir, og skila. Markmiðinu þarf að vera náð fyrir lok dags þar sem skil fyrir hönnunarskýrslunni eru um miðnætti í dag. 
+
+Samantekt: 
+Í dag unnum við heima þar sem okkur fannst við ekki þurfa að mæta í skólann. Við hófum vinnudaginn á því að fara yfir allt verkefnið, einn hópmeðlimur í einu, og við spjölluðum saman um hvað gæti bætt og hvað okkur leist vel á. Þegar því lauk fórum við að laga og bæta það sem okkur fannst þurfa að bæta og það tók smá tíma. Að því loknu settum við allar tilbúnu afurðirnar saman í eitt skjal og bættum við forsíðu, efnisyfirliti og blaðsíðutali. Það verkefni tók ágætan tíma þar sem það voru margar myndir og skjáskot sem þurftu að fylgja með. Einnig þurfti að bæta við myndum af öllu stöðuritinu sem þótti ansi erfitt þar sem það dekkaði margar blaðsíður og þurfti að vera deilt í marga minni búta. Það tókst að lokum og þá var verkefnið til í skil. Þar með var verkefni viku 1 klárað og við bíðum nú eftir athugasemdum frá kennurum. 
 
 
+28. Nóvember
 
+Morgunfundur:
+Nú þegar það er komið að því að nota forritun í námskeiðinu þurfum við að passa að við séum með klasa og föll á hreinu og þess þurfa nokkrir í hópnum að læra betur á það svo verkefnið geti verið unnið. Markmið dagsins er þess að allir hópmeðlimir séu færir í klösum og föllum. Einnig viljum við íhuga að vinnu verkefnisins, þ.e. skoða verkefni vikunnar ítarlega og ákveða hvernig við viljum útfæra verkefnið. Annað markmiðið er þess að skipta verkefninu niður í minni hluta og vera búin að ákveða lauslega hvernig við viljum tækla hvern hluta. Ef tími gefst viljum við einnig byrja að forrita það sem við getum. 
 
+Samantekt:  
+Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsins. Það var örlítil hindrun þar sem við vorum ekki jafn vinnusöm heima og við erum yfirleitt þegar við mættum í skólann. Samt sem áður vorum við dugleg og reyndum að ná markmiðum dagsins. Við fórum fyrst yfir alla verkefnalýsinguna saman og punktuðum niður ef okkur fannst eitthvað koma við forrituninni. Einnig fylgdist megnið af hópnum með fyrirlestrinum, en þar sem tveir hópmeðlimar misstu af honum og kennarinn hafði ekki sett fyrirlesturinn á Echo360 þurfti það að bíða. Þess þurftu hinir meðlimir hópsins að lýsa fyrirlestrinum fyrir hópnum og gekk það ansi vel. Til þess að forrita verkefnið fannst okkur klasaritið, stöðuritið og wireframes mikilvægustu afurðirnar til að bera tillit til þegar við forrituðum. Þær afurðir geta hjálpað okkur mikið í forrituninni þar sem þær hafa skref fyrir skref áætlanir fyrir hvernig hægt er að ná ákveðnu markmiði. Við skiptum forrituninni í ___ hluta; spilun, skráning og breyting. 
+Spilunin er nánara tiltekið skipulagning móts af mótshaldara og þar eftir spilun móts. 
+Skráningin skiptist í skráningu liðs, leikmanns og deildar. 
+Breytingin
+
+29. Nóvember
+
+Morgunfundur:
+Markmið dagsins er að klára forritun á ____ hlutanum. Ef tími gefst langar okkur einnig að klára forritun á ____ hlutanum. Mikilvægast fyrir okkur er að hefja forritun á ___ hlutanum sem fyrst og komast sem lengst með það þar sem það er mikilvægasti hlutinn að okkar mati. Að loki viljum við líta yfir umsögnina sem við fengum fyrir hönnunarskýrsluna okkar. 
+
+Samantekt:
