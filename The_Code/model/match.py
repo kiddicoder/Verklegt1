@@ -11,7 +11,7 @@ class Match():
         self.date_of_match = self.DateOfMatch()
         self.new_date_of_match = self.PostponeMatch()
     
-    def ResultsOfMatch(self):
+    def ResultsOfMatch(self):  #veit ekki hvernig ég á að gera þessi föll
         pass
 
     def DateOfMatch(self):
@@ -19,3 +19,6 @@ class Match():
 
     def PostponeMatch(self):
         pass
+
+    def __str__(self):
+        return f"{self.home_team}, {self.away_team}, {self.home_player}, {self.away_player}, {self.results}, {self.date_of_match},{self.new_date_of_match}"
