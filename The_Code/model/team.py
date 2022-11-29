@@ -2,7 +2,7 @@ from model.player import Player
 
 class Team():
     def __init__(self, player="", team_name=""): 
-        self.player = Player()     
+        self.player = Player().id()    
         self.team_name = team_name
 
     def __str__(self):
