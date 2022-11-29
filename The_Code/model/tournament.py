@@ -2,7 +2,7 @@
 from model.team import Team
 class Tournament():
     def __init__(self, team="", organizer_name="", phone_number=0, start_date="", end_date="", number_of_matches=0, tournament_name=""):
-        self.team = Team()
+        self.team = Team().id()
         self.organizer_name = organizer_name
         self.phone_number = phone_number
         self.start_date = start_date
