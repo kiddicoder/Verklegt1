@@ -1,3 +1,5 @@
+from model.team import Team
+
 class Player():
    def __init__(self, name="", player_id=0, address="", email="", gsm=0, phone=0, role="", team=""):
        self.name = name
