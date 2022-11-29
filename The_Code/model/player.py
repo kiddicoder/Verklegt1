@@ -12,5 +12,5 @@ class Player():
        self.team = Team().id()
   
    def __str__(self):
-       return f"{self.name}, {self.id}, {self.address}, {self.email}, {self.gsm}, {self.phone}, {self.role}, {self.team}"
+       return f"{self.name}, {self.player_id}, {self.address}, {self.email}, {self.gsm}, {self.phone}, {self.role}, {self.team}"
 
