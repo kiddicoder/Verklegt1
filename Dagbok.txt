@@ -64,7 +64,7 @@ Samantekt:
 Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna. Við lögðum mikla áherslu á player og náðum að klára forritun á öllu player tengdu. Einnig náðum við að fara vel yfir allt í data möppunni og náðum nánast að klára hana. Við vorum lengi vel að velta okkur yfir þessari þrílaga hönnun og erum ennþá ekki örugg með það. Þess vegna viljum við skoða það betur heima til að fá dýpri skilning. Draumurinn væri að geta klárað allt sem komið er í sameiginlega repositoryið okkar
 
 
-31. Nóvember
+30. Nóvember
 
 Morgunfundur:
 Markmið dagsins er að klára að forrita allt í sameiginlega repositoryinu okkar. Ef markmiðinu verður ekki náð verðum við sátt við það að klára eins mikið og við getum. Markmið dagsins er að klára að forrita allar A kröfur svo við getum byrjað sem fyrst á B kröfunum. Einnig viljum við gefa okkur nægan tíma til þess að fara yfir allan kóðan og passa að hann sé í samræmi við hönnunarskýrsluna okkar og að hann sé skrifaður á skýran hátt.
