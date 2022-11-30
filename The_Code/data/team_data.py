@@ -1,13 +1,13 @@
-
 import csv
-from model.team import team
+from model.team import Team
+from model.player import Player
 
 class TeamData:
     def __init__(self):
         self.file_name = 'files/teams.csv'
 
     def create_team(self, team):
-        with open(self.file_name, 'a', newline='', encoding = 'utf-8') as csvfiles:
+        with open(self.file_name, 'a', newline='', encoding = 'utf-8') as csvfile:
             fieldnames = ['player', 'id', 'name']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
