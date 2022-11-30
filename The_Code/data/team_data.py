@@ -8,15 +8,15 @@ class TeamData:
 
     def create_team(self, team):
         with open(self.file_name, 'a', newline='', encoding = 'utf-8') as csvfiles:
-            fieldnames = ['name', 'id', 'address', 'phone', 'team']
+            fieldnames = ['player', 'id', 'name']
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
 
-            writer.writerow({'name': club.name, 'id': club.id, 'address': club.address, 'phone': club.phone, 'team': club.team })
+            writer.writerow({'player': team.player, 'id': team.id, 'name': team.name})
 
-    def list_all_clubs(self):
+    def list_all_teams(self):
         return_list = []
         with open(self.file_name, newline='', encoding = 'utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
-                return_list.append(Player(row['name'], row['id'], row['address'], row['phone'], row['team']))
+                return_list.append(Player(row['player'], row['id'], row['name']))
         return return_list
