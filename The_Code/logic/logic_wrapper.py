@@ -14,8 +14,11 @@ class LogicWrapper:
         self.team_logic = TeamLogic()
         self.tournament_logic = TournamentLogic()
     
-    def create_player(self, customer):
-        return self.player_logic.create_player(customer)
+    def create_player(self, player):
+        return self.player_logic.create_player(player)
 
     def list_all_players(self):
         return self.player_logic.list_all_players()
+    
+    def create_tournament(self, tournament):
+        return self.tournament_logic.create_tournament()
