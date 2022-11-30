@@ -1,7 +1,7 @@
-from logic.player_logic import PlayerLogic
-from model.player import Player
 from ui.player_ui import Player_UI
 from logic.logic_wrapper import LogicWrapper
+from ui.team_ui import Team_UI
+
 class MainMenu_UI:
     def __init__(self):
         self.logic_wrapper = LogicWrapper()
@@ -24,14 +24,15 @@ class MainMenu_UI:
                 print('Goodbye!')
                 break
             elif command == '1':
-                pass
+                menu = Player_UI(self.logic_wrapper)
             elif command == '2':
-                pass
+                team_menu = Team_UI(self.logic_wrapper)
             elif command == '3':
                 pass
             elif command == '4':
                 pass
             elif command == '5':
                 pass
+
 
 
