@@ -1,7 +1,7 @@
 from data.club_data import ClubData
 from model.club import Club
 
-class PlayerLogic:
+class ClubLogic:
     def __init__(self, data_connection):
         self.club_logic = data_connection
 
