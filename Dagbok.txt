@@ -56,7 +56,7 @@ Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsin
 29. Nóvember
 
 Morgunfundur:
-Í gær gerðum við sameiginlegt git repository með öllum A kröfunum og aðal atriðum forritsins. Markmið dagsins er að klára forritun á allri model möppunni, s.s. modelklasana. Einnig viljum við reyna að klára allt í files möppunni, s.s. csv filein. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
+Í gær gerðum við sameiginlegt git repository með öllum A kröfunum og aðal atriðum forritsins. Markmið dagsins er að klára forritun á allri model möppunni, s.s. modelklasana. Einnig viljum við reyna að klára allt í files möppunni, s.s. csv file-in. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
 
 
 Samantekt:
