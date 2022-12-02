@@ -79,4 +79,13 @@ Morgunfundur:
 Markmið dagsins er fyrst og fremst að ná markmiðinu sem við náðum ekki í gær. Við viljum klára allar A kröfurnar og laga það sem við náðum ekki að laga/klára í gær. 
 
 Samantekt:
-Við hittumst í sólinni í HR og héldum áfram forrituninni okkar. Við náðum að leysa stóra villu sem við vorum lengi að vinna í í gær. Villan var að þegar við skráðum leikmann þá vildi kerfið ekki leyfa okkur að klára roles, s.s. annaðhvort captain eða player. Þrátt fyrir að kóðinn hafi verið í fínu lagi þá var kerfið ekki sammála okkur og við fengum villu. Við komumst að því að það var í raun ekkert að forrituninni okkar, það var kerfið sjálft sem vildi ekki taka við inputinu sem við gáfum því. Þegar við náðum að leysa villuna gátum við loksins farið af stað að reyna klára A kröfurnar. Það var ýmislegt sem við þurftum að fara yfir og laga og bæta við í kóðann okkar. Við settum markmið að klára root menu síðar í kvöld eða á morgun. 
+Við hittumst í sólinni í HR og héldum áfram forrituninni okkar. Við náðum að leysa stóra villu sem við vorum lengi að vinna í í gær og við vorum alsæl með það. Villan var að þegar við skráðum leikmann þá vildi kerfið ekki leyfa okkur að klára roles, s.s. annaðhvort captain eða player. Þrátt fyrir að kóðinn hafi verið í fínu lagi þá var kerfið ekki sammála okkur og við fengum villu. Við komumst að því að það var í raun ekkert að forrituninni okkar, það var kerfið sjálft sem vildi ekki taka við inputinu sem við gáfum því. Þegar við náðum að leysa villuna gátum við loksins farið af stað að reyna klára A kröfurnar. Það var ýmislegt sem við þurftum að fara yfir og laga og bæta við í kóðann okkar.  Hingað til er ansi margt sem við eigum eftir að gera og við erum á eftir áætlun. Við vonuðumst til þess að geta klárað A kröfurnar sem fyrst svo við gætum farið af stað að vinna í B kröfunum, laga Hönnunarskjalið og vinna í kennslumyndbandinu. Við verðum að vona það besta að við náum að klára það sem þarf að klára fyrir skil. Markmið morgundagsins er að klára root menu og auðvitað að reyna klára eins margar A kröfur og við getum. Við þurfum aðeins að fínpússa menuina og vinna í öllu tournament tengdu (t.d. að byrja mót, fresta móti, skrá dagsetningar o.s.fv.). Einnig þurfum við að vinna í því að generatea auðkennandi ID fyrir hvert lið og klúbba.
+
+
+2. Desember
+
+Morgunfundur: 
+Markmið dagsins er að klára root menu, komast sem lengst í tournament menuinu og komast sem lengst með að generatea ID fyrir öll lið og klúbba. Ef því markmiði er náð, sem við erum ekki að búast við til fulls, verðum við nánast búin að klára allar A kröfurnar og þá höfum við náð meginmarkmiði okkar. Það skiptir okkur ekki öllu máli að klára allar kröfurnar, B og C talið með, þar sem við viljum frekar gera A kröfurnar vel áður en við förum að vinna í öðrum kröfum.
+
+Samantekt: 
+Við hittumst eins og alltaf í sólinni í HR 
