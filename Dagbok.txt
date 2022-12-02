@@ -88,4 +88,4 @@ Morgunfundur:
 Markmið dagsins er að klára root menu, komast sem lengst í tournament menuinu og komast sem lengst með að generatea ID fyrir öll lið og klúbba. Ef því markmiði er náð, sem við erum ekki að búast við til fulls, verðum við nánast búin að klára allar A kröfurnar og þá höfum við náð meginmarkmiði okkar. Það skiptir okkur ekki öllu máli að klára allar kröfurnar, B og C talið með, þar sem við viljum frekar gera A kröfurnar vel áður en við förum að vinna í öðrum kröfum.
 
 Samantekt: 
-Við hittumst eins og alltaf í sólinni í HR 
+Við hittumst eins og alltaf í sólinni í HR og fórum að vinna í verkefninu okkar. Við byrjuðum á því að reyna laga þær villur sem við náðum ekki að klára í gær. Eftir það var öll áherslan lögð á að byggja rootmenu-inn sem yrði menu-inn sem kemur upp þegar notandinn opnar forritið fyrst. Það var gríðamikil vinna lögð í að byggja rootmenu-inn og tók það ansi langan tíma. 
