@@ -100,5 +100,4 @@ Morgunfundur:
 Markmið dagsins er að reyna klára allar A kröfurnar, markmið sem við höfum sett okkur í nokkra daga núna en enn ekki náð að klára. Við vonumst til þess að geta klárað þær sem fyrst svo við getum byrjað að vinna í B kröfunum og öðru sem við eigum eftir að gera. Stærstu A kröfurnar sem við eigum eftir að klára er að útfæra list menu og að breyta úrslitum leiks. Við höfum unnið smá í þeim báðum en höfum ekki náð að klára hingað til.
 
 Samantekt:
-Við hittumst nokkur í sólinni og nokkur heima. 
-
+Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í sambandi við okkur í gegnum discord og var í call-i þar. Við vorum í miklum erfiðleikum að klára það sem við þurftum að klára. 
