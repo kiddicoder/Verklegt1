@@ -106,31 +106,10 @@ Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í samba
 6. Desember
 
 Morgunfundur:
-Markmið dagsins er að reyna að klára allt team menu, club menu og reyna að klára match organizer menu (sérstaklega þá að klára skrá lið og tournament, breyta úrslitum og prenta lista með spilaðar og óspilaðar viðureignir.
+Markmið dagsins er að reyna að klára allt team menu, club menu og reyna að klára match organizer menu (sérstaklega þá að klára skrá lið og tournament, breyta úrslitum og prenta lista með spilaðar og óspilaðar viðureignir. Við erum orðin ansi stressuð að geta ekki klárað verkefnið á réttum tíma, þrátt fyrir að við höfum verið að mæta á hverjum degi til að kóða frá 9:30 til 16:00 c.a. (rétt undir 8 tíma á dag, stundum lengur). 
 
 Samantekt:
 Við hittumst í sólinni í HR og vorum ansi ósátt með slappa mætingu, þar sem meðlimur hópsins mætti nánast 3 klukkutímum of seint án útskýringar. Við erum ekki sátt með slappa mætingu þar sem við eigum rosalega mikla vinnu eftir. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
