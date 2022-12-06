@@ -100,4 +100,40 @@ Morgunfundur:
 Markmið dagsins er að reyna klára allar A kröfurnar, markmið sem við höfum sett okkur í nokkra daga núna en enn ekki náð að klára. Við vonumst til þess að geta klárað þær sem fyrst svo við getum byrjað að vinna í B kröfunum og öðru sem við eigum eftir að gera. Stærstu A kröfurnar sem við eigum eftir að klára er að útfæra list menu, breyta og skrá úrslit leiks og skrá nýtt team og club. Við höfum unnið smá í þeim báðum en höfum ekki náð að klára hingað til.
 
 Samantekt:
-Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í sambandi við okkur í gegnum discord call. Við vorum í miklum erfiðleikum að klára það sem við þurftum að klára. Við náðum að klára að útfæra skrá teams og skrá clubs, bæði voru þau þannig að þau tengdust csv skránni og stoppuðu invalid input frá því að komast í gegn. Við vorum með margar villur í gegnum allan kóðann sem þurfti að laga og við vorum ekki að búast við því að klára A kröfurnar þegar komið var hádegi. Við erum orðin ansi stressuð um að ná ekki að klára A kröfurnar, þar sem við erum í raun bara 4 á fullu að vinna í kóðanum þegar flestir eru í 6 manna hóp. Í byrjun námskeiðisins settum við okkur markmið að klára A og B kröfurnar í verkefninu, en við sjáum núna að það getur ekki verið raunhæft.
+Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í sambandi við okkur í gegnum discord call. Við vorum í miklum erfiðleikum að klára það sem við þurftum að klára. Við náðum að klára að útfæra skrá teams og skrá clubs, bæði voru þau þannig að þau tengdust csv skránni og stoppuðu invalid input frá því að komast í gegn. Við vorum með margar villur í gegnum allan kóðann sem þurfti að laga og við vorum ekki að búast við því að klára A kröfurnar þegar komið var hádegi. Í byrjun námskeiðisins settum við okkur markmið að klára A og B kröfurnar í verkefninu, en við sjáum núna að það getur ekki verið raunhæft. 
+
+
+6. Desember
+
+Morgunfundur:
+Markmið dagsins er að reyna að klára allt team menu, club menu og reyna að klára match organizer menu (sérstaklega þá að klára skrá lið og tournament, breyta úrslitum og prenta lista með spilaðar og óspilaðar viðureignir.
+
+Samantekt:
+Við hittumst í sólinni í HR og vorum ansi ósátt með slappa mætingu, þar sem meðlimur hópsins mætti nánast 3 klukkutímum of seint án útskýringar. Við erum ekki sátt með slappa mætingu þar sem við eigum rosalega mikla vinnu eftir. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
