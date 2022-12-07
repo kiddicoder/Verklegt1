@@ -1,4 +1,6 @@
-21. Nóvember
+Verklegt námskeið 1 - Dagbókarfærslur fyrir hóp 1 - haust 2022
+
+21. Nóvember - mánudagur
 
 Morgunfundur:
 Við byrjuðum daginn á að hlusta á tveggja tíma fyrirlestur hjá Dr. Gylfa Þór Guðmundssyni, stuttu eftir það þá hópuðum við okkur upp og við greindum verkefnið. Markmið dagsins hjá okkur var að undirbúa vinnu morgundagsins og að komast betur inn í efnið.
@@ -6,13 +8,8 @@ Við byrjuðum daginn á að hlusta á tveggja tíma fyrirlestur hjá Dr. Gylfa 
 Samantekt dagsins:
 Við komumst betur inn í efnið og skrifuðum lista af spurningum fyrir kennara og aðstoðarkennara. Við lásum vel yfir verkefnalýsinguna og reyndum að fá betur skilið það efni sem var ekki kunnuglegt. Markmið Elsu og Jónínu fyrir morgundaginn er að fá betri skýringu á Git, með því að horfa á fyrirlestur og lesa sig til um það. Markmið hinna hópmeðlima fyrir morgundaginn er að horfa á fyrirlestra varðandi þriggja laga hönnun og TUI. 
 
-e: svipuð og j
-j: taka þátt, mæta, ekki falla, gera sitt besta
-k: hress, mæta og gera sitt besta, ætlar ekki að vera asshole
-a: gera sem mest, geta hjálpað, gera mitt besta, vera virk, mæta
-v: svipað og allir, vera hjálpsamur
 
-22. Nóvember 
+22. Nóvember - þriðjudagur
 
 Morgunfundur:
 Hópurinn hittist snemma dags í sólinni í HR og hóf umræður um hver markmið dagsins yrðu ásamt því að ræða saman hvernig við myndum vilja tækla þau. Við ákváðum að byrja að vinna lítillega í hverri afurð verkefnisins, þ.e. notkunartilvikum, klasariti, stöðuritum, notendahópagreiningu, og útlitshönnun. Markmið dagsins var að klára drög að klasariti og útlitshönnun, ásamt því að brjóta notendahópagreininguna og notkunartilvikin í smærri verkefni og útfæra eins mörg þeirra og hægt var. Við bjuggum til sameiginlegt drive skjal og bættum við sameiginlegum textaskjölum sem við getum unnið saman í. 
@@ -21,16 +18,16 @@ Samantekt dagsins:
 Til að byrja með stunduðum við mikla samvinnu og töluðum saman ítarlega um hvernig við myndum framkvæma hvert smærra markmið/verkefni. Með því komumst við að því hvaða hlutverkefni myndi henta hverjum hópmeðlimi í samanburði við hæfni og styrkleika þeirra. Hópurinn vann í samvinnu að markmiðinu en þó voru sum hlutverkefni unnin af einstökum hópmeðlimum. Allir meðlimir hópsins tóku virkan þátt í verki dagsins og dagurinn nýttist okkur vel. Að lok dags var klasaritið og útlitshönnun hugbúnaðarins komið þokkalega vel á leið og styttist í að það verði tilbúið. Einnig var mikil vinna lögð í notkunartilvikið og það komið ágætlega á leið. Miklar umræður og spurningar spruttu upp þegar unnið var að notendahópagreiningunni, en að enda dags voru drög að henni nokkurn vegin tilbúin. Markmið okkar fyrir morgundaginn er að komast vel á veg með útlitshönnun. Einnig að fara betur yfir notkunartilvik og notendahópagreiningu. Að lokum viljum við byrja vinnu á klasariti og stöðuriti. 
 
 
-23. Nóvember 
+23. Nóvember - miðvikudagur
 
 Morgunfundur:
 Markmið dagsins eru að klára fyrstu drög að notendatilviki, wireframes, notendahópagreiningu, og kröfulista. Einnig viljum við byrja á klasaritinu og stöðuritinu og reyna að komast eins langt með það og við getum. 
 
 Samantekt:
-Við hittumst í sólinni í HR og byrjuðum að tækla markmið dagsins. Notendahópagreiningin kláraðist fljótt eftir að við skoðuðum það saman lið fyrir lið og með því var fyrsta markmið dagsins náð. Einnig kláraðist notendatilvikið og kröfulistinn eftir mikla vinnu. Þar með voru þrjú markmið náð og örfá eftir. Við unnum hart að því að klára wireframes og enduðum með nánast tilbúin drög að þeim, aðalhindrun okkar í þeim voru óvissa á fjölda “happy paths” sem við ættum að hafa. Stór hluti af vinnudegi okkar fór í að íhuga og rökræða um klasarit okkar, þar sem við vorum ekki alveg viss um hvort við værum á réttri leið með það. Við hófum vinnu á stöðuriti okkar en ekki náðist að klára það til fulls. Við náðum að gera hluta af stöðuritinu en það er ennþá slatti sem við þurfum að bæta við og hugleiða í því. 
+Við hittumst í sólinni í HR og byrjuðum að tækla markmið dagsins. Notendahópagreiningin kláraðist fljótt eftir að við skoðuðum það saman lið fyrir lið og með því var fyrsta markmið dagsins náð. Einnig kláraðist notendatilvikið og kröfulistinn eftir mikla vinnu. Þar með voru þrjú markmið náð og örfá eftir. Við unnum hart að því að klára wireframes og enduðum með nánast tilbúin drög að þeim, aðalhindrun okkar í þeim voru óvissa á fjölda “happy paths” sem við ættum að hafa. Stór hluti af vinnudegi okkar fór í að íhuga og rökræða um klasarit okkar, þar sem við vorum ekki alveg viss um hvort við værum á réttri leið með það. Við hófum vinnu á stöðuriti okkar en ekki náðist að klára það til fulls. Við náðum að gera hluta af stöðuritinu en það er enn slatti sem við þurfum að bæta við og hugleiða í því. 
 
 
-24. Nóvember
+24. Nóvember - fimmtudagur
 
 Morgunfundur:
 Markmið dagsins eru að klára stöðuritið og klasaritið okkar. Ef markmiðinu verður ekki náð nægir fyrir okkur að hafa komist eins langt með það og hægt var. 
@@ -39,7 +36,7 @@ Samantekt:
 Við hittumst í sólinni í HR og fórum strax af stað að reyna klára afurðirnar sem eftir var að klára. Einnig fórum við betur yfir þær afurðir sem við vorum búin að klára til þess að passa að afurðirnar séu eins góðar og við getum gert þær. Okkur tókst að klára klasaritið okkar og einnig stöðuritið og þar með var markmiði dagsins náð. Við fórum lauslega saman yfir allar afurðirnar og löguðum nokkrar villur sem við tókum eftir. Við vorum mjög ánægð með vinnu dagsins. Þar sem við unnum að hverri afurð í sér skjali áttum við eftir að sameina þær allar í eitt skjal til skila. Það ætlum við að gera á morgun og verður það markmið morgundagsins ásamt því að fara yfir allt verkefnið og athuga hvort það séu nokkuð villur sem við getum lagað. Ásamt því að sameina allar afurðir í eitt skjal þurfum við að hafa til forsíðu ásamt efnisyfirliti og myndum af ritunum okkar. 
 
 
-25. Nóvember
+25. Nóvember - föstudagur
 
 Morgunfundur:
 Markmið dagsins er að klára allar afurðir, setja saman í skjal, fara yfir, og skila. Markmiðinu þarf að vera náð fyrir lok dags þar sem skil fyrir hönnunarskýrslunni eru um miðnætti í dag. 
@@ -48,7 +45,7 @@ Samantekt:
 Í dag unnum við heima þar sem okkur fannst við ekki þurfa að mæta í skólann. Við hófum vinnudaginn á því að fara yfir allt verkefnið, einn hópmeðlimur í einu, og við spjölluðum saman um hvað gæti bætt og hvað okkur leist vel á. Þegar því lauk fórum við að laga og bæta það sem okkur fannst þurfa að bæta og það tók smá tíma. Að því loknu settum við allar tilbúnu afurðirnar saman í eitt skjal og bættum við forsíðu, efnisyfirliti og blaðsíðutali. Það verkefni tók ágætan tíma þar sem það voru margar myndir og skjáskot sem þurftu að fylgja með. Einnig þurfti að bæta við myndum af öllu stöðuritinu sem þótti ansi erfitt þar sem það dekkaði margar blaðsíður og þurfti að vera deilt í marga minni búta. Það tókst að lokum og þá var verkefnið til í skil. Þar með var verkefni viku 1 klárað og við bíðum nú eftir athugasemdum frá kennurum. 
 
 
-28. Nóvember
+28. Nóvember - mánudagur
 
 Morgunfundur:
 Nú þegar það er komið að því að nota forritun í námskeiðinu þurfum við að passa að við séum með klasa og föll á hreinu og þess þurfa nokkrir í hópnum að læra betur á það svo verkefnið geti verið unnið. Markmið dagsins er þess að allir hópmeðlimir séu færir í klösum og föllum. Einnig viljum við íhuga að vinnu verkefnisins, þ.e. skoða verkefni vikunnar ítarlega og ákveða hvernig við viljum útfæra verkefnið. Annað markmiðið er þess að skipta verkefninu niður í minni hluta og vera búin að ákveða lauslega hvernig við viljum tækla hvern hluta. Ef tími gefst viljum við einnig byrja að forrita það sem við getum. 
@@ -57,17 +54,17 @@ Samantekt:
 Við ákváðum að vera heima í dag þar sem það voru veikindi innan hópsins. Það var örlítil hindrun þar sem við vorum ekki jafn vinnusöm heima og við erum yfirleitt þegar við mættum í skólann. Samt sem áður vorum við dugleg og reyndum að ná markmiðum dagsins. Við fórum fyrst yfir alla verkefnalýsinguna saman og punktuðum niður ef okkur fannst eitthvað koma við forrituninni. Einnig fylgdist megnið af hópnum með fyrirlestrinum, en þar sem tveir hópmeðlimar misstu af honum og kennarinn hafði ekki sett fyrirlesturinn á Echo360 þurfti það að bíða. Til þess að forrita verkefnið fannst okkur klasaritið, stöðuritið og wireframes mikilvægustu afurðirnar til að bera tillit til þegar við forrituðum. Þær afurðir geta hjálpað okkur mikið í forrituninni þar sem þær hafa skref fyrir skref áætlanir fyrir hvernig hægt er að ná ákveðnu markmiði. Að lokum litum við yfir umsögnina sem við fengum frá hönnunarskýrslunni.
 
 
-29. Nóvember
+29. Nóvember - þriðjudagur
 
 Morgunfundur:
 Í gær gerðum við sameiginlegt git repository með öllum A kröfunum og aðal atriðum forritsins. Markmið dagsins er að klára forritun á allri model möppunni, s.s. modelklasana. Einnig viljum við reyna að klára allt í files möppunni, s.s. csv file-in. Við viljum reyna að klára eins mikið og við getum í data möppunni og ui möppunni, en ekki erum við að gera ráð fyrir því að klára það í dag. 
 
 
 Samantekt:
-Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna. Við lögðum mikla áherslu á player og náðum að klára forritun á öllu player tengdu. Einnig náðum við að fara vel yfir allt í data möppunni og náðum nánast að klára hana. Við vorum lengi vel að velta okkur yfir þessari þrílaga hönnun og erum ennþá ekki örugg með það. Þess vegna viljum við skoða það betur heima til að fá dýpri skilning. Draumurinn væri að geta klárað allt sem komið er í sameiginlega repositoryið okkar
+Við hittumst í sólinni í HR og hófumst handa við að vinna verkefni dagsins. Við fórum strax af stað að vinna í model möppunni og gekk það ansi hægt í byrjun. Við vorum ekki alveg hrein á hvernig við ættum að forrita klasana í model möppunni en eftir smá spjall vorum við farin að skilja betur. Við náðum að klára að forrita klasana í model möppuni og vorum ansi sátt með það. Þar á eftir fórum við að spá í hinum möppunum og hófumst handa við files möppuna, data möppuna og ui möppuna. Við lögðum mikla áherslu á player og náðum að klára forritun á öllu player tengdu. Einnig náðum við að fara vel yfir allt í data möppunni og náðum nánast að klára hana. Við vorum lengi vel að velta okkur yfir þessari þrílaga hönnun og erum enn ekki örugg með það. Þess vegna viljum við skoða það betur heima til að fá dýpri skilning. Draumurinn væri að geta klárað allt sem komið er í sameiginlega repositoryið okkar
 
 
-30. Nóvember
+30. Nóvember - miðvikudagur
 
 Morgunfundur:
 Markmið dagsins er að klára að forrita allt í sameiginlega repositoryinu okkar. Ef markmiðinu verður ekki náð verðum við sátt við það að klára eins mikið og við getum. Markmið dagsins er að klára að forrita allar A kröfur svo við getum byrjað sem fyrst á B kröfunum. Einnig viljum við gefa okkur nægan tíma til þess að fara yfir allan kóðan og passa að hann sé í samræmi við hönnunarskýrsluna okkar og að hann sé skrifaður á skýran hátt.
@@ -76,41 +73,49 @@ Samantekt:
 Við hittumst í sólinni í HR og fórum strax af stað að forrita verkefnið okkar. Markmiðið okkar er að klára allt í sameiginlega repositoryinu okkar (allar A kröfurnar) í lok dags og við vorum upprunalega mjög örugg um að við myndum geta náð því markmiði. Við stofnuðum sameiginlegt visual studio code skjal þar sem við gátum öll unnið saman í sama kóða og það myndi uppfærast um leið. Við færðum því alla kóðana frá github yfir þangað og unnum saman í skjalinu. Okkur fannst mjög gott að geta unnið í sameiginlegu skjali þar sem við gátum séð hvað allir voru að vinna í og gátum hjálpað til jafn óðum. Aðallega færðum við okkur yfir í visual studio code til þess að geta haft alla kóðana saman svo hægt væri að run-na kóðann allan. Við lentum í miklu veseni með visual studio code og vorum lengi að reyna finna út úr því. Því þurftum við að færa okkur aftur yfir í sameiginlegt skjal í replit.com þar sem við náðum loks að run-na hlut af kóðanum. Markmið morgundagsins er að laga villurnar sem við fáum þegar við run-um kóðanum okkar og þar á eftir að byrja á nýjum kröfum. 
 
 
-1. Desember
+1. Desember - fimmtudagur
 
 Morgunfundur:
 Markmið dagsins er fyrst og fremst að ná markmiðinu sem við náðum ekki í gær. Við viljum klára allar A kröfurnar og laga það sem við náðum ekki að laga/klára í gær. 
 
 Samantekt:
-Við hittumst í sólinni í HR og héldum áfram forrituninni okkar. Við náðum að leysa stóra villu sem við vorum lengi að vinna í í gær og við vorum alsæl með það. Villan var að þegar við skráðum leikmann þá vildi kerfið ekki leyfa okkur að klára roles, s.s. annaðhvort captain eða player. Þrátt fyrir að kóðinn hafi verið í fínu lagi þá var kerfið ekki sammála okkur og við fengum villu. Við komumst að því að það var í raun ekkert að forrituninni okkar, það var kerfið sjálft sem vildi ekki taka við inputinu sem við gáfum því. Þegar við náðum að leysa villuna gátum við loksins farið af stað að reyna klára A kröfurnar. Það var ýmislegt sem við þurftum að fara yfir og laga og bæta við í kóðann okkar.  Hingað til er ansi margt sem við eigum eftir að gera og við erum á eftir áætlun. Við vonuðumst til þess að geta klárað A kröfurnar sem fyrst svo við gætum farið af stað að vinna í B kröfunum, laga Hönnunarskjalið og vinna í kennslumyndbandinu. Við verðum að vona það besta að við náum að klára það sem þarf að klára fyrir skil. Markmið morgundagsins er að klára root menu og auðvitað að reyna klára eins margar A kröfur og við getum. Við þurfum aðeins að fínpússa menuina og vinna í öllu tournament tengdu (t.d. að byrja mót, fresta móti, skrá dagsetningar o.s.fv.). Einnig þurfum við að vinna í því að generatea auðkennandi ID fyrir hvert lið og klúbba.
+Við hittumst í sólinni í HR og héldum áfram forrituninni okkar. Við náðum að leysa stóra villu sem við vorum lengi að vinna í í gær og við vorum alsæl með það. Villan var að þegar við skráðum leikmann þá vildi kerfið ekki leyfa okkur að klára roles, s.s. annaðhvort captain eða player. Þrátt fyrir að kóðinn hafi verið í fínu lagi þá var kerfið ekki sammála okkur og við fengum villu. Við komumst að því að það var í raun ekkert að forrituninni okkar, það var kerfið sjálft sem vildi ekki taka við inputinu sem við gáfum því. Þegar við náðum að leysa villuna gátum við loksins farið af stað að reyna klára A kröfurnar. Það var ýmislegt sem við þurftum að fara yfir og laga og bæta við í kóðann okkar.  Hingað til er ansi margt sem við eigum eftir að gera og við erum á eftir áætlun. Við vonuðumst til þess að geta klárað A kröfurnar sem fyrst svo við gætum farið af stað að vinna í B kröfunum, laga Hönnunarskjalið og vinna í kennslumyndbandinu. Við verðum að vona það besta að við náum að klára það sem þarf að klára fyrir skil. Markmið morgundagsins er að klára root menu og auðvitað að reyna klára eins margar A kröfur og við getum. Við þurfum aðeins að fínpússa menuina og vinna í öllu tournament tengdu (t.d. að byrja mót, fresta móti, skrá dagsetningar o.s.frv.). Einnig þurfum við að vinna í því að generatea auðkennandi ID fyrir hvert lið og klúbba.
 
 
-2. Desember
+2. Desember - föstudagur
 
 Morgunfundur: 
 Markmið dagsins er að klára root menu, komast sem lengst í tournament menuinu og komast sem lengst með að generatea ID fyrir öll lið og klúbba. Ef því markmiði er náð, sem við erum ekki að búast við til fulls, verðum við nánast búin að klára allar A kröfurnar og þá höfum við náð meginmarkmiði okkar. Það skiptir okkur ekki öllu máli að klára allar kröfurnar, B og C talið með, þar sem við viljum frekar gera A kröfurnar vel áður en við förum að vinna í öðrum kröfum.
 
 Samantekt: 
-Við hittumst eins og alltaf í sólinni í HR og fórum að vinna í verkefninu okkar. Við byrjuðum á því að reyna laga þær villur sem við náðum ekki að klára í gær. Eftir það var öll áherslan lögð á að byggja rootmenu-inn sem yrði menu-inn sem kemur upp þegar notandinn opnar forritið fyrst. Það var gríðamikil vinna lögð í að byggja rootmenu-inn og tók það ansi langan tíma. Við spurðum Magnús hvort við máttum láta mótshaldara þurfa að skrá sig inn í organizer menu með því að skrifa inn kennitöluna sína (ID) þótt það væri ekki krafa og við fengum leyfi fyrir því. Við lentum í smá veseni við það að ná að identify-a leikmenn út frá kennitölu þeirra. Þar að auki vorum við í smá veseni við það að breyta score-i í leikjum, þ.e. að leyfa mótshaldara að breyta útkomu leikja, því í hverju móti eru nokkrar viðureignir og þá ætti að vera hægt að velja hvaða viðureign mótshaldarinn vill breyta. Við fengum aðstoð frá kennara við það. Við erum ekki að gera ráð fyrir því að hópurinn sinni verkefninu á morgun þar sem það er laugardagur á morgun og nokkrir innan hópsins eru að vinna. Einnig höfum við hingað til aldrei þurft að vinna um helgar og erum ekki alveg viss hvernig við myndum fara að því. Við ætlum öll að reyna að fikta eitthvað í verkefninu (ef við höfum tíma) svo við getum minnkað vinnumagnið fyrir næstu viku. Í fyrri hluta næstu viku ætlum við að vera búin að klára og fínpússa allar A kröfurnar og ætlum þar á eftir að byrja að vinna í B kröfunum. Einnig þurfum við að huga að myndbandinu sem við þurfum að gera og huga að hönnunarskýrslunni. 
+Við hittumst eins og alltaf í sólinni í HR og fórum að vinna í verkefninu okkar. Við byrjuðum á því að reyna laga þær villur sem við náðum ekki að klára í gær. Eftir það var öll áherslan lögð á að byggja rootmenu-inn sem yrði menu-inn sem kemur upp þegar notandinn opnar forritið fyrst. Það var gríðarmikil vinna lögð í að byggja rootmenu-inn og tók það ansi langan tíma. Við spurðum Magnús hvort við máttum láta mótshaldara þurfa að skrá sig inn í organizer menu með því að skrifa inn kennitöluna sína (ID) þótt það væri ekki krafa og við fengum leyfi fyrir því. Við lentum í smá veseni við það að ná að identify-a leikmenn út frá kennitölu þeirra. Þar að auki vorum við í smá veseni við það að breyta score-i í leikjum, þ.e. að leyfa mótshaldara að breyta útkomu leikja, því í hverju móti eru nokkrar viðureignir og þá ætti að vera hægt að velja hvaða viðureign mótshaldarinn vill breyta. Við fengum aðstoð frá kennara við það. Við erum ekki að gera ráð fyrir því að hópurinn sinni verkefninu á morgun þar sem það er laugardagur á morgun og nokkrir innan hópsins eru að vinna. Einnig höfum við hingað til aldrei þurft að vinna um helgar og erum ekki alveg viss hvernig við myndum fara að því. Við ætlum öll að reyna að fikta eitthvað í verkefninu (ef við höfum tíma) svo við getum minnkað vinnumagnið fyrir næstu viku. Í fyrri hluta næstu viku ætlum við að vera búin að klára og fínpússa allar A kröfurnar og ætlum þar á eftir að byrja að vinna í B kröfunum. Einnig þurfum við að huga að myndbandinu sem við þurfum að gera og huga að hönnunarskýrslunni. 
 
 
-5. Desember 
+5. Desember - mánudagur
 
 Morgunfundur:
 Markmið dagsins er að reyna klára allar A kröfurnar, markmið sem við höfum sett okkur í nokkra daga núna en enn ekki náð að klára. Við vonumst til þess að geta klárað þær sem fyrst svo við getum byrjað að vinna í B kröfunum og öðru sem við eigum eftir að gera. Stærstu A kröfurnar sem við eigum eftir að klára er að útfæra list menu, breyta og skrá úrslit leiks og skrá nýtt team og club. Við höfum unnið smá í þeim báðum en höfum ekki náð að klára hingað til.
 
 Samantekt:
-Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í sambandi við okkur í gegnum discord call. Við vorum í miklum erfiðleikum að klára það sem við þurftum að klára. Við náðum að klára að útfæra skrá teams og skrá clubs, bæði voru þau þannig að þau tengdust csv skránni og stoppuðu invalid input frá því að komast í gegn. Við vorum með margar villur í gegnum allan kóðann sem þurfti að laga og við vorum ekki að búast við því að klára A kröfurnar þegar komið var hádegi. Í byrjun námskeiðisins settum við okkur markmið að klára A og B kröfurnar í verkefninu, en við sjáum núna að það getur ekki verið raunhæft. 
+Við hittumst flest í sólinni en ein þurfti að vera heima, hún var í sambandi við okkur í gegnum discord call. Við vorum í miklum erfiðleikum að klára það sem við þurftum að klára. Við náðum að klára að útfæra skrá teams og skrá clubs, bæði voru þau þannig að þau tengdust csv skránni og stoppuðu invalid input frá því að komast í gegn. Við vorum með margar villur í gegnum allan kóðann sem þurfti að laga og við vorum ekki að búast við því að klára A kröfurnar þegar komið var hádegi. Í byrjun námskeiðsins settum við okkur markmið að klára A og B kröfurnar í verkefninu, en við sjáum núna að það getur ekki verið raunhæft. 
 
 
-6. Desember
+6. Desember - þriðjudagur
 
 Morgunfundur:
 Markmið dagsins er að reyna að klára allt team menu, club menu og reyna að klára match organizer menu (sérstaklega þá að klára skrá lið og tournament, breyta úrslitum og prenta lista með spilaðar og óspilaðar viðureignir. Við erum orðin ansi stressuð að geta ekki klárað verkefnið á réttum tíma, þrátt fyrir að við höfum verið að mæta á hverjum degi til að kóða frá 9:30 til 16:00 c.a. (rétt undir 8 tíma á dag, stundum lengur). 
 
 Samantekt:
-Við hittumst í sólinni í HR og vorum ansi ósátt með slappa mætingu, þar sem meðlimur hópsins mætti nánast 3 klukkutímum of seint án útskýringar. Við erum ekki sátt með slappa mætingu þar sem við eigum rosalega mikla vinnu eftir. 
+Við hittumst í sólinni í HR og vorum ansi ósátt með slappa mætingu, þar sem einn meðlimur hópsins mætti nánast 3 klukkutímum of seint án útskýringar. Við fórum af stað að vinna í verkefninu okkar og gekk það nokkuð vel í byrjun. Við náðum að klára nánast allar A kröfurnar nema þær sem snerust að því að slá inn úrslit, breyta úrslitum og prenta úrslitin. Það sem við náðum að klára var team menu og club menu. Við vorum í smá vandræðum við að finna út úr því hvernig við gætum bætt við liði leikmanns í player.csv file-inu þegar við búum til nýtt lið. Við vorum ansi lengi að reyna finna út úr því en vorum ekki klár á því hvernig væri hægt að breyta gögnum í file-inu. Við fengum hjálp frá Magnúsi og náðum að leysa vandamálið eftir mikla vinnu. Einnig vorum við í vandræðum með það að prenta út Clubs þar sem við þurftum að kalla fram öll liðin sem voru í hverju club. Við fengum þá einnig hjálp frá Magnúsi og vorum þá mun færari í að útfæra það verkefni. Í enda dags fengum við að spjalla við bæði Arnar og Gylfa um hvernig best væri að fara að því að vinna í leikjamenuinu sjálfu (s.s. öllu því sem tengist leiknum og úrslitum) þar sem við höfum verið lengi að velta okkur fyrir því hvernig við ættum að útfæra það. Hjálpin sem við fengum frá Dr. Gylfa snerist aðallega um csv skrár og hvernig hægt væri bæði að vinna með gögnin úr þeim og að breyta innihaldi hennar. Hann sagðu okkur t.d. frá foreign keys og pointers (eitthvað sem við höfðum aldrei áður heyrt um). 
 
+
+7. Desember - miðvikudagur
+
+Morgunfundur:
+Markmið dagsins er að klára öllum þeim A kröfum sem tengjast leiknum sjálfum og úrslitum (s.s. allar þær A kröfur sem við eigum eftir). Við erum ekki hrein á því hvort markmið dagsins sé raunhæft, þar sem þessi hluti verkefnisins er okkur erfiðastur, en við viljum reyna okkar allra besta að ná því. Við höfum ákveðið að útfæra bara A kröfurnar og sleppa B og C vegna tímaþrots. Við settum okkur þetta markmið (að klára A kröfurnar) fyrst á miðvikudaginn fyrir viku (30. desember) og það markmið var mjög óraunhæft. Síðan þá höfum við verið að reyna ná því markmiði og verðum alsæl við það að klára þær í dag. Þegar A kröfunum hafa verið náð viljum við fara í það að fínpússa og betrumbæta kóðann okkar svo hann sé tilbúin til afhendingar. Þar á eftir viljum við fara í það að framkvæma myndband til útskýringar. Að lokum á eftir að laga hönnunarskýrsluna aðeins en við höfum verið að laga hana smátt og smátt í gegnum forritunarferilinn. 
+
+Samantekt:
+Við hittumst í sólinni í HR
 
 
 
