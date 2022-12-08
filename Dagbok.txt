@@ -114,7 +114,16 @@ Morgunfundur:
 Markmið dagsins er að klára öllum þeim A kröfum sem tengjast leiknum sjálfum og úrslitum (s.s. allar þær A kröfur sem við eigum eftir). Við erum ekki hrein á því hvort markmið dagsins sé raunhæft, þar sem þessi hluti verkefnisins er okkur erfiðastur, en við viljum reyna okkar allra besta að ná því. Við höfum ákveðið að útfæra bara A kröfurnar og sleppa B og C vegna tímaþrots. Við settum okkur þetta markmið (að klára A kröfurnar) fyrst á miðvikudaginn fyrir viku (30. desember) og það markmið var mjög óraunhæft. Síðan þá höfum við verið að reyna ná því markmiði og verðum alsæl við það að klára þær í dag. Þegar A kröfunum hafa verið náð viljum við fara í það að fínpússa og betrumbæta kóðann okkar svo hann sé tilbúin til afhendingar. Þar á eftir viljum við fara í það að framkvæma myndband til útskýringar. Að lokum á eftir að laga hönnunarskýrsluna aðeins en við höfum verið að laga hana smátt og smátt í gegnum forritunarferilinn. 
 
 Samantekt:
-Við hittumst í sólinni í HR og fórum af stað með að reyna klára A kröfurnar okkar. Það var slöpp mæting innan hópsins þar sem einn meðlimur hópsins mætti ekki og lét ekki vita af sér. Hann fór þó að hjálpa um 13 leitið, þá fór hann að vinna í Happy path sem við gætum sýnt notendum í notendaprófinu, það var þó ekki klárað. Við lentum í rosalegum villum og vandræðum í gegnum daginn sem við áttum mjög erfitt með að leysa. Við fengum góða hjálp frá Magnúsi en áttum samt mjög erfitt að klára verkefni dagsins. Það sem við áttum eftir að klára var tournament, matches og games. 
+Við hittumst í sólinni í HR og fórum af stað með að reyna klára A kröfurnar okkar. Það var slöpp mæting innan hópsins þar sem einn meðlimur hópsins mætti ekki og lét ekki vita af sér. Hann fór þó að hjálpa um 13 leitið, þá fór hann að vinna í Happy path sem við gætum sýnt notendum í notendaprófinu, það var þó ekki klárað. Við lentum í rosalegum villum og vandræðum í gegnum daginn sem við áttum mjög erfitt með að leysa. Við fengum góða hjálp frá Magnúsi en áttum samt mjög erfitt að klára verkefni dagsins. Það sem við áttum eftir að klára var tournament, matches og games. Við enduðum daginn með villu sem eyddi öllu úr player csv fileinu okkar og þar sem klukkan var orðin 8 og við höfðum verið uppi í skóla að vinna í þessu í 12 tíma ákváðum við að það væri best ef við myndum fara heim og hvíla okkur. 
+
+
+8. Desember - fimmtudagur
+
+Morgunfundur:
+Markmið dagsins er það sama og það hefur verið síðustu viku; að klára allar A kröfurnar. Þar sem skilin á verkefninu eru á morgun og þrír af fimm hópmeðlimir verða ekki allan daginn er ansi mikilvægt að við náum að klára kröfurnar í dag. Einnig eigum við eftir að gera kennslumyndband, laga klasaritið og laga stöðuritið svo það sé í samræmi við nýja kóðann okkar. 
+
+Samantekt:
+Við hittumst í sólinni í HR.
 
 
 
